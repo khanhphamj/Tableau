@@ -7,7 +7,7 @@ Welcome to my Tableau project! My name is [KhanhPham], and I am excited to prese
 
 ## About Me
 
-I am a [Data Science] with a strong interest in data analytics and visualization. With a solid foundation in [mention relevant skills or expertise], I have leveraged Tableau to uncover insights from complex datasets and present them in a user-friendly manner.
+I am a Data Science with a strong interest in data analytics and visualization. With a solid foundation in programming languages such as Python, data processing, and machine learning, I have leveraged Tableau to uncover insights from complex datasets and present them in a user-friendly manner.
 
 ## Project Objectives
 
