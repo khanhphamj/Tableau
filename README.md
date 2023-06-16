@@ -1,40 +1,43 @@
 # Tableau Dashboard
+![image](https://github.com/khanhphamj/Tableau/assets/120659979/df166cfa-6832-41a1-93ac-df3601660b7c)
 
-This is an impressive Tableau dashboard for data visualization and analysis. Tableau is a powerful data visualization tool that allows you to explore, analyze, and present data in intuitive and interactive ways. This dashboard has been designed to provide a comprehensive view of your data with engaging visualizations.
-Link: https://public.tableau.com/app/profile/ph.m.ph.kh.nh/viz/Netfix_16867199711950/Netfix?publish=yes
-![image](https://github.com/khanhphamj/Tableau/assets/120659979/68d6b186-2de3-4b74-b81b-f9aa9aa7e793)
+## Introduction
 
+Welcome to my Tableau project! My name is [KhanhPham], and I am excited to present to you my analysis and visualizations using Tableau. This project showcases my skills in data exploration, analysis, and storytelling through interactive visualizations.
 
-## Features
+## About Me
 
-- Interactive visualizations: Explore your data through interactive charts, graphs, and maps.
-- Drill-down analysis: Dive deeper into your data by drilling down into specific dimensions or measures.
-- Dashboard filters: Use filters to dynamically adjust the data displayed in the dashboard.
-- Data blending: Combine data from multiple sources and create meaningful relationships between them.
-- Real-time updates: Connect to live data sources for up-to-date insights.
+I am a [Data Science] with a strong interest in data analytics and visualization. With a solid foundation in [mention relevant skills or expertise], I have leveraged Tableau to uncover insights from complex datasets and present them in a user-friendly manner.
 
-## Usage Guide
+## Project Objectives
 
-1. Download or clone the source code of this dashboard.
-2. Open Tableau Desktop and open the downloaded workbook file (`.twb` or `.twbx`).
-3. Customize the dashboard by connecting it to your data sources and making necessary adjustments.
-4. Save and publish the dashboard to Tableau Server, Tableau Public, or export it as a static file (PDF, image, etc.).
-5. Share the dashboard with others or embed it in websites or applications.
+In this Tableau project, my main objectives were:
 
-## System Requirements
+- **Data Exploration**: To delve deep into the dataset, understand its structure, and identify meaningful patterns and trends.
 
-- Tableau Desktop (latest version)
+- **Insights Generation**: To derive valuable insights and actionable conclusions from the data through visual representations.
 
-## References
+- **Interactive Visualizations**: To create interactive dashboards and visualizations that enable users to explore the data and discover insights on their own.
 
-- [Tableau Documentation](https://help.tableau.com)
-- [Tableau Public](https://public.tableau.com)
+## Repository Structure
 
-## Author
+The repository is structured as follows:
 
-This Tableau dashboard was developed by [KhanhPham](https://github.com/khanhphamj).
+- **/data**: This directory contains the dataset used for the analysis.
 
-## Contributions
+- **/notebooks**: This directory includes any Jupyter notebooks or Python scripts used for data preprocessing or cleaning.
 
-Contributions are welcome! If you have any suggestions, improvements, or bug reports, please feel free to contribute.
+- **/images**: This directory holds the screenshots or images of the Tableau visualizations.
+
+- **/docs**: This directory contains additional documentation or resources related to the Tableau project.
+
+## Contact Information
+
+If you have any questions, feedback, or collaboration opportunities, feel free to reach out to me:
+
+- Email: [phukhanh1903@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/kh%C3%A1nh-ph%E1%BA%A1m-a82330231/]
+- GitHub: [https://github.com/khanhphamj/]
+
+I hope you find my Tableau project informative and insightful. Enjoy exploring the visualizations and gaining valuable insights from the data!
 
