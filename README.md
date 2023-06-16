@@ -40,4 +40,11 @@ If you have any questions, feedback, or collaboration opportunities, feel free t
 - GitHub: [https://github.com/khanhphamj/]
 
 I hope you find my Tableau project informative and insightful. Enjoy exploring the visualizations and gaining valuable insights from the data!
+### Netfix Analytics
+https://public.tableau.com/app/profile/ph.m.ph.kh.nh/viz/Netfix_16867199711950/Netfix
+![image](https://github.com/khanhphamj/Tableau/assets/120659979/c6558929-1074-4160-bca0-044a903c420a)
+### Videogame Sales
+https://public.tableau.com/app/profile/ph.m.ph.kh.nh/viz/VideogameSales_16869189644030/Dashboard1
+![image](https://github.com/khanhphamj/Tableau/assets/120659979/c05f8832-366a-4309-8917-684892ad02dc)
+
 
